@@ -1,0 +1,375 @@
+2023-08-28 14:34:53 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/robots.txt> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:01 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/robots.txt> (referer: None)
+2023-08-28 14:35:04 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos> (referer: None)
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '15170', 'name': 'mista: absoluto (domingo) (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2a29cd69-29a2-41db-bd57-54ee718e0ae4/felipe-sucasas', 'name': 'Felipe Sucasas'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/11af4e95-fabe-4e76-bd8a-6b0ec332bb89/maneco-araujo', 'name': 'Maneco Araújo'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone', 'name': 'Sergio Nakasone'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/43e9ea8e-4c61-4837-97fd-df2be68c5743/jerry-oliveira-de-carvalho', 'name': 'Jerry Oliveira De Carvalho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/d71fd4f1-8497-4c35-9ac5-5200466187c5/luiz-correia-bernardes-filho', 'name': 'Luiz Correia Bernardes Filho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f25d97aa-a0ea-45df-92d2-4770584273b6/gladson-barroso', 'name': 'Gladson Barroso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2244ad52-7e12-47d0-a82f-04b16f8245c9/bruno-monteiro', 'name': 'Bruno Monteiro'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/efcd8aef-6bc9-43a1-b53c-324d6192974a/hermano-sa-neto', 'name': 'Hermano Sá Neto'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos', 'name': 'Leonardo Vasconcelos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/94025902-7cde-437f-a5bd-03dfed8d49a4/davi-de-souza-araujo', 'name': 'Davi De Souza Araújo'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b302edb2-a976-4e3a-ac31-1d07a8143d2a/renato-de-oliveira-soares', 'name': 'Renato De Oliveira Soares'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/e83b63f3-0e4a-4da7-80e7-2f8096b7e78e/luiz-felipe', 'name': 'Luiz Felipe'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/96c9ae72-be56-455e-b3cf-e107716f1dce/marcos-chipa', 'name': 'Marcos Chipa'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9ee3beaa-8e9d-4820-9d84-6f14f96ff10a/ricardo-tavares', 'name': 'Ricardo Tavares'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis', 'name': 'Arthur Tavares Reis'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral', 'name': 'Gustavo Cabral'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/affecbca-b932-499a-88a3-3eab14124899/rosivado-paiva', 'name': 'Rosivado Paiva'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/76199542-5f56-49f1-a7a9-22c7ba6faccf/ana-elisa-jardim-barroso', 'name': 'Ana Elisa Jardim Barroso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/ff51403f-3067-4f75-8dae-2092ce305cb5/mariana-jardim', 'name': 'Mariana Jardim'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/3f8804e2-3230-4bcb-97b4-412627f3f4ba/lucas-gustavo-muniz-coutinho', 'name': 'Lucas Gustavo Muniz Coutinho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14232', 'name': 'mista: adulto (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f5097e11-9ec0-4bd1-be90-3116fa77d8f6/brendow-souza', 'name': 'Brendow Souza'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/e83b63f3-0e4a-4da7-80e7-2f8096b7e78e/luiz-felipe', 'name': 'Luiz Felipe'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral', 'name': 'Gustavo Cabral'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/c7a7a5c0-a8d7-4da8-8718-4805159bbec5/denis-barbosa-dos-anjos', 'name': 'Dênis Barbosa Dos Anjos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '15210', 'name': 'mista: categoria pro (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/623c31ae-5a36-4ef0-a5fd-a62b5b892f30/paulo-araujo', 'name': 'Paulo Araujo'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2615ff49-99b6-443b-aa8c-0ae85ff0ecca/emannuel-cunha', 'name': 'Emannuel Cunha'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9ee3beaa-8e9d-4820-9d84-6f14f96ff10a/ricardo-tavares', 'name': 'Ricardo Tavares'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/78af6997-48a1-4379-b275-cdd296af7bf5/caio-mello', 'name': 'Caio Mello'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14227', 'name': 'mista: feminino (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/76199542-5f56-49f1-a7a9-22c7ba6faccf/ana-elisa-jardim-barroso', 'name': 'Ana Elisa Jardim Barroso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/ff51403f-3067-4f75-8dae-2092ce305cb5/mariana-jardim', 'name': 'Mariana Jardim'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/93b5d76a-0948-4727-960f-1f15e4046659/aline-vitoria-dos-santos-soares', 'name': 'Aline Vitória Dos Santos Soares'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/aefaa07d-d61f-40a3-80cd-e1935b4f60d2/sarah-braz-davila', 'name': "Sarah Braz D'avila"}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/26b0b64f-ff3b-4eee-a373-4b3a2dc83628/consuelo-ribeiro-santos-francisco', 'name': 'Consuelo Ribeiro Santos Francisco'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14226', 'name': 'mista: iniciantes (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f25d97aa-a0ea-45df-92d2-4770584273b6/gladson-barroso', 'name': 'Gladson Barroso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9a494421-2a10-4a05-bb11-8e1da99edebf/paulo-henrique', 'name': 'Paulo Henrique'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/e2ea6424-9c42-4880-be70-4754ddeb9ee0/luiza-cesar', 'name': 'Luiza Cesar'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral', 'name': 'Gustavo Cabral'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/76199542-5f56-49f1-a7a9-22c7ba6faccf/ana-elisa-jardim-barroso', 'name': 'Ana Elisa Jardim Barroso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/93b5d76a-0948-4727-960f-1f15e4046659/aline-vitoria-dos-santos-soares', 'name': 'Aline Vitória Dos Santos Soares'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/ff51403f-3067-4f75-8dae-2092ce305cb5/mariana-jardim', 'name': 'Mariana Jardim'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/aefaa07d-d61f-40a3-80cd-e1935b4f60d2/sarah-braz-davila', 'name': "Sarah Braz D'avila"}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8b6f0041-ce4b-4873-a135-2d90f3a6959b/robert-nathan-goncalves-ferraz', 'name': 'Robert Nathan Gonçalves Ferraz'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14229', 'name': 'mista: juventude (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/4fece623-4b6c-4d2c-b8ef-e8417fd7cccc/bernardinho-kk', 'name': 'Bernardinho Kk'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9a05bab8-1b39-4b25-bc98-a711d7ccf7c3/matheus-godoy', 'name': 'Matheus Godoy'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/64d68ac0-a8bb-460d-85eb-53c99b007eba/pablo-souza', 'name': 'Pablo Souza⚡'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f716ff50-14dd-46cc-8ee1-e2890e147733/davi-de-souza-araujo', 'name': 'Davi De Souza Araújo'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis', 'name': 'Arthur Tavares Reis'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/395ab18d-a183-4c07-a97f-3596c5cb84d6/caio-carvalho', 'name': 'Caio Carvalho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/128306c9-6ad7-4d09-9d3d-5231f743abd1/vinicius-marcal', 'name': 'Vinicius Marçal'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8b6f0041-ce4b-4873-a135-2d90f3a6959b/robert-nathan-goncalves-ferraz', 'name': 'Robert Nathan Gonçalves Ferraz'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14231', 'name': 'mista: máster (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b9b127a3-55cf-44db-bedf-8adcda86299d/jose-roberto-de-souza-francisco', 'name': 'José Roberto De Souza Francisco'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/befcf247-7ce4-4e15-b6ab-4ce1acfb5db8/ricardo-silveira-rocha', 'name': 'Ricardo Silveira Rocha'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/d71fd4f1-8497-4c35-9ac5-5200466187c5/luiz-correia-bernardes-filho', 'name': 'Luiz Correia Bernardes Filho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/11af4e95-fabe-4e76-bd8a-6b0ec332bb89/maneco-araujo', 'name': 'Maneco Araújo'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone', 'name': 'Sergio Nakasone'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/3bca827e-7d8b-47ca-a090-0f1037f65b86/naor-uematu', 'name': 'Naor Uematu'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/0588facd-b493-4de6-a170-2229e49828c6/adrian-ganz', 'name': 'Adrian Ganz'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/fbe556c2-ab4e-426e-a07c-c129696cde3f/leonardo-nascimento-silva', 'name': 'Leonardo Nascimento Silva'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/a549322b-d974-4e9e-9a34-bef1602a5b4a/jose-renato-cunha-rodrigues-de-oliveira', 'name': 'José Renato Cunha Rodrigues De Oliveira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f6bd7760-a0a3-4ea5-951b-a7629ffb1736/marcelo-luiz-vivas-dias', 'name': 'Marcelo Luiz Vivas Dias'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14251', 'name': 'mista: mirim (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9815ab84-3453-4f9e-a559-863534bc91b6/pedro-monteiro', 'name': 'Pedro Monteiro'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/94025902-7cde-437f-a5bd-03dfed8d49a4/davi-de-souza-araujo', 'name': 'Davi De Souza Araújo'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/395ab18d-a183-4c07-a97f-3596c5cb84d6/caio-carvalho', 'name': 'Caio Carvalho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2efa39e8-c45b-4b78-a3c6-8eed5deb99e0/dan-schickler', 'name': 'Dan Schickler'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/0e5fe48b-2cb1-4346-9d34-99fedd7e9d0f/pedro-eduardo-bellezza-martins-da-silva', 'name': 'Pedro Eduardo Bellezza Martins Da Silva'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14222', 'name': 'mista: rating a (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/509e1818-9848-4d50-8f5f-d36e7daab6c1/thiago-monteiro', 'name': 'Thiago Monteiro'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/691e517d-3ef1-49f9-b101-58230e4bb52c/rafael-moreira', 'name': 'Rafael Moreira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/befcf247-7ce4-4e15-b6ab-4ce1acfb5db8/ricardo-silveira-rocha', 'name': 'Ricardo Silveira Rocha'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2a29cd69-29a2-41db-bd57-54ee718e0ae4/felipe-sucasas', 'name': 'Felipe Sucasas'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/3bca827e-7d8b-47ca-a090-0f1037f65b86/naor-uematu', 'name': 'Naor Uematu'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b0e8f59f-9f97-48e3-9b46-1d0038e41858/carlos-eduardo-pujoni-pena', 'name': 'Carlos Eduardo Pujoni Pena'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/db6f9ec1-bb58-4be4-a69e-e7bfa4015c79/alvaro-moreira', 'name': 'Alvaro Moreira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/4690e464-a5db-4aa1-b267-fc716f552859/cesar-moreira', 'name': 'César Moreira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14223', 'name': 'mista: rating b (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/4fece623-4b6c-4d2c-b8ef-e8417fd7cccc/bernardinho-kk', 'name': 'Bernardinho Kk'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/86c7eb7c-2c6e-4ae4-96d5-f692f9707bf0/roberto-sales', 'name': 'Roberto Sales'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9a05bab8-1b39-4b25-bc98-a711d7ccf7c3/matheus-godoy', 'name': 'Matheus Godoy'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/def5491c-af0d-49d5-a046-9945ea8fc3aa/gerridina-slijkhuis', 'name': 'Gerridina Slijkhuis'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos', 'name': 'Leonardo Vasconcelos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5103de07-5048-4bcd-a485-f028d4599818/mauricio-carvalho', 'name': 'Maurício Carvalho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral', 'name': 'Gustavo Cabral'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f6bd7760-a0a3-4ea5-951b-a7629ffb1736/marcelo-luiz-vivas-dias', 'name': 'Marcelo Luiz Vivas Dias'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14224', 'name': 'mista: rating c (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b9b127a3-55cf-44db-bedf-8adcda86299d/jose-roberto-de-souza-francisco', 'name': 'José Roberto De Souza Francisco'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f5097e11-9ec0-4bd1-be90-3116fa77d8f6/brendow-souza', 'name': 'Brendow Souza'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/d71fd4f1-8497-4c35-9ac5-5200466187c5/luiz-correia-bernardes-filho', 'name': 'Luiz Correia Bernardes Filho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone', 'name': 'Sergio Nakasone'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f14050f9-dd90-4a85-9b85-635f39530814/andre-bittencourt', 'name': 'André Bittencourt'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/fbe556c2-ab4e-426e-a07c-c129696cde3f/leonardo-nascimento-silva', 'name': 'Leonardo Nascimento Silva'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis', 'name': 'Arthur Tavares Reis'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/a039f54d-4461-4c72-a0a5-4206c3a717f3/douglas-mello', 'name': 'Douglas Mello'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14225', 'name': 'mista: rating d (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5700d45c-474a-4552-a2a3-3a5e284b25f1/elias-nunes', 'name': 'Elias Nunes'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5c98adba-2a4f-4891-a2d3-8f9c87e0c188/luiz-carlos-martins-cardoso', 'name': 'Luiz Carlos Martins Cardoso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/586d7041-9fce-4476-afef-8f18d73ee43d/hugo-teixeira', 'name': 'Hugo Teixeira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/aee8a7a2-98f2-4560-99dd-56bbfc16b45b/leandro-brant-neves', 'name': 'Leandro Brant Neves'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2244ad52-7e12-47d0-a82f-04b16f8245c9/bruno-monteiro', 'name': 'Bruno Monteiro'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/9a494421-2a10-4a05-bb11-8e1da99edebf/paulo-henrique', 'name': 'Paulo Henrique'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b302edb2-a976-4e3a-ac31-1d07a8143d2a/renato-de-oliveira-soares', 'name': 'Renato De Oliveira Soares'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/89dc7645-6b60-467c-b6b4-8f895442316b/guilherme-caldeira', 'name': 'Guilherme Caldeira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/64d68ac0-a8bb-460d-85eb-53c99b007eba/pablo-souza', 'name': 'Pablo Souza⚡'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8175723c-04b7-476b-be14-86ec4df78f16/nathalia-dias', 'name': 'Nathalia Dias'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/e2ea6424-9c42-4880-be70-4754ddeb9ee0/luiza-cesar', 'name': 'Luiza Cesar'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/3f8804e2-3230-4bcb-97b4-412627f3f4ba/lucas-gustavo-muniz-coutinho', 'name': 'Lucas Gustavo Muniz Coutinho'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/c7a7a5c0-a8d7-4da8-8718-4805159bbec5/denis-barbosa-dos-anjos', 'name': 'Dênis Barbosa Dos Anjos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5b9ed981-9212-4bee-aa53-daacd68f2895/jonathan-lameira', 'name': 'Jonathan Lameira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/441b0e1a-1adb-4a7d-9493-51aeb015c55b/rodrigo-teixeira', 'name': 'Rodrigo Teixeira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14230', 'name': 'mista: sênior (simples)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/509e1818-9848-4d50-8f5f-d36e7daab6c1/thiago-monteiro', 'name': 'Thiago Monteiro'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5700d45c-474a-4552-a2a3-3a5e284b25f1/elias-nunes', 'name': 'Elias Nunes'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f25d97aa-a0ea-45df-92d2-4770584273b6/gladson-barroso', 'name': 'Gladson Barroso'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/aee8a7a2-98f2-4560-99dd-56bbfc16b45b/leandro-brant-neves', 'name': 'Leandro Brant Neves'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos', 'name': 'Leonardo Vasconcelos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8175723c-04b7-476b-be14-86ec4df78f16/nathalia-dias', 'name': 'Nathalia Dias'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5b9ed981-9212-4bee-aa53-daacd68f2895/jonathan-lameira', 'name': 'Jonathan Lameira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/45cdb4fb-835b-43db-bd01-5ef2c80038be/allan-ganz', 'name': 'Allan Ganz'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'category': {'id': '14228', 'name': 'mista: duplas (duplas)'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2a29cd69-29a2-41db-bd57-54ee718e0ae4/felipe-sucasas', 'name': 'Felipe Sucasas'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/691e517d-3ef1-49f9-b101-58230e4bb52c/rafael-moreira', 'name': 'Rafael Moreira'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/5700d45c-474a-4552-a2a3-3a5e284b25f1/elias-nunes', 'name': 'Elias Nunes'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis', 'name': 'Arthur Tavares Reis'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/c7a7a5c0-a8d7-4da8-8718-4805159bbec5/denis-barbosa-dos-anjos', 'name': 'Dênis Barbosa Dos Anjos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f5097e11-9ec0-4bd1-be90-3116fa77d8f6/brendow-souza', 'name': 'Brendow Souza'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/0588facd-b493-4de6-a170-2229e49828c6/adrian-ganz', 'name': 'Adrian Ganz'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/45cdb4fb-835b-43db-bd01-5ef2c80038be/allan-ganz', 'name': 'Allan Ganz'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/2244ad52-7e12-47d0-a82f-04b16f8245c9/bruno-monteiro', 'name': 'Bruno Monteiro'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f14050f9-dd90-4a85-9b85-635f39530814/andre-bittencourt', 'name': 'André Bittencourt'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos', 'name': 'Leonardo Vasconcelos'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b0e8f59f-9f97-48e3-9b46-1d0038e41858/carlos-eduardo-pujoni-pena', 'name': 'Carlos Eduardo Pujoni Pena'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/3bca827e-7d8b-47ca-a090-0f1037f65b86/naor-uematu', 'name': 'Naor Uematu'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/64d68ac0-a8bb-460d-85eb-53c99b007eba/pablo-souza', 'name': 'Pablo Souza⚡'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8175723c-04b7-476b-be14-86ec4df78f16/nathalia-dias', 'name': 'Nathalia Dias'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/f6bd7760-a0a3-4ea5-951b-a7629ffb1736/marcelo-luiz-vivas-dias', 'name': 'Marcelo Luiz Vivas Dias'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone', 'name': 'Sergio Nakasone'}}
+2023-08-28 14:35:04 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos>
+{'player': {'href': '/Jogadores/b176a534-7b7f-4259-9c90-fed7dd2708e6/leonardo-nascimento-silva', 'name': 'Leonardo Nascimento Silva'}}
+2023-08-28 14:35:05 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14228/mista-duplas-duplas/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:05 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14228/mista-duplas-duplas/Chave>
+{'result': {'category': '14228', 'ranking': {'/Jogadores/5700d45c-474a-4552-a2a3-3a5e284b25f1/elias-nunes': 4, '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos': 4, '/Jogadores/c7a7a5c0-a8d7-4da8-8718-4805159bbec5/denis-barbosa-dos-anjos': 12, '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone': 1, '/Jogadores/0588facd-b493-4de6-a170-2229e49828c6/adrian-ganz': 8, '/Jogadores/2244ad52-7e12-47d0-a82f-04b16f8245c9/bruno-monteiro': 14, '/Jogadores/2a29cd69-29a2-41db-bd57-54ee718e0ae4/felipe-sucasas': 8, '/Jogadores/3bca827e-7d8b-47ca-a090-0f1037f65b86/naor-uematu': 0, '/Jogadores/8175723c-04b7-476b-be14-86ec4df78f16/nathalia-dias': 13, '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis': 4, '/Jogadores/64d68ac0-a8bb-460d-85eb-53c99b007eba/pablo-souza': 1, '/Jogadores/45cdb4fb-835b-43db-bd01-5ef2c80038be/allan-ganz': 8, '/Jogadores/691e517d-3ef1-49f9-b101-58230e4bb52c/rafael-moreira': 8, '/Jogadores/b0e8f59f-9f97-48e3-9b46-1d0038e41858/carlos-eduardo-pujoni-pena': 4, '/Jogadores/b176a534-7b7f-4259-9c90-fed7dd2708e6/leonardo-nascimento-silva': 1}}}
+2023-08-28 14:35:06 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14229/mista-juventude-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:06 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14229/mista-juventude-simples/Chave>
+{'result': {'category': '14229', 'ranking': {'/Jogadores/64d68ac0-a8bb-460d-85eb-53c99b007eba/pablo-souza': 0, '/Jogadores/4fece623-4b6c-4d2c-b8ef-e8417fd7cccc/bernardinho-kk': 1, '/Jogadores/8b6f0041-ce4b-4873-a135-2d90f3a6959b/robert-nathan-goncalves-ferraz': 2, '/Jogadores/9a05bab8-1b39-4b25-bc98-a711d7ccf7c3/matheus-godoy': 4, '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis': 2, '/Jogadores/f716ff50-14dd-46cc-8ee1-e2890e147733/davi-de-souza-araujo': 4, '/Jogadores/128306c9-6ad7-4d09-9d3d-5231f743abd1/vinicius-marcal': 4, '/Jogadores/395ab18d-a183-4c07-a97f-3596c5cb84d6/caio-carvalho': 4}}}
+2023-08-28 14:35:07 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14226/mista-iniciantes-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:07 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14226/mista-iniciantes-simples/Chave>
+{'result': {'category': '14226', 'ranking': {'/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral': 1, '/Jogadores/f25d97aa-a0ea-45df-92d2-4770584273b6/gladson-barroso': 4, '/Jogadores/8b6f0041-ce4b-4873-a135-2d90f3a6959b/robert-nathan-goncalves-ferraz': 4, '/Jogadores/76199542-5f56-49f1-a7a9-22c7ba6faccf/ana-elisa-jardim-barroso': 4, '/Jogadores/aefaa07d-d61f-40a3-80cd-e1935b4f60d2/sarah-braz-davila': 8, '/Jogadores/9a494421-2a10-4a05-bb11-8e1da99edebf/paulo-henrique': 0, '/Jogadores/e2ea6424-9c42-4880-be70-4754ddeb9ee0/luiza-cesar': 2, '/Jogadores/ff51403f-3067-4f75-8dae-2092ce305cb5/mariana-jardim': 2, '/Jogadores/93b5d76a-0948-4727-960f-1f15e4046659/aline-vitoria-dos-santos-soares': 4}}}
+2023-08-28 14:35:08 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14227/mista-feminino-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:08 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14227/mista-feminino-simples/Chave>
+{'result': {'category': '14227', 'ranking': {'/Jogadores/26b0b64f-ff3b-4eee-a373-4b3a2dc83628/consuelo-ribeiro-santos-francisco': 0, '/Jogadores/ff51403f-3067-4f75-8dae-2092ce305cb5/mariana-jardim': 1, '/Jogadores/aefaa07d-d61f-40a3-80cd-e1935b4f60d2/sarah-braz-davila': 2, '/Jogadores/93b5d76a-0948-4727-960f-1f15e4046659/aline-vitoria-dos-santos-soares': 3, '/Jogadores/76199542-5f56-49f1-a7a9-22c7ba6faccf/ana-elisa-jardim-barroso': 4}}}
+2023-08-28 14:35:08 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/15210/mista-categoria-pro-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:08 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/15210/mista-categoria-pro-simples/Chave>
+{'result': {'category': '15210', 'ranking': {'/Jogadores/78af6997-48a1-4379-b275-cdd296af7bf5/caio-mello': 0, '/Jogadores/623c31ae-5a36-4ef0-a5fd-a62b5b892f30/paulo-araujo': 1, '/Jogadores/9ee3beaa-8e9d-4820-9d84-6f14f96ff10a/ricardo-tavares': 2, '/Jogadores/2615ff49-99b6-443b-aa8c-0ae85ff0ecca/emannuel-cunha': 3}}}
+2023-08-28 14:35:09 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14232/mista-adulto-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:09 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14232/mista-adulto-simples/Chave>
+{'result': {'category': '14232', 'ranking': {'/Jogadores/f5097e11-9ec0-4bd1-be90-3116fa77d8f6/brendow-souza': 0, '/Jogadores/e83b63f3-0e4a-4da7-80e7-2f8096b7e78e/luiz-felipe': 1, '/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral': 2, '/Jogadores/c7a7a5c0-a8d7-4da8-8718-4805159bbec5/denis-barbosa-dos-anjos': 3}}}
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14230/mista-senior-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14224/mista-rating-c-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14225/mista-rating-d-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14223/mista-rating-b-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14222/mista-rating-a-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14251/mista-mirim-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14231/mista-master-simples/Chave> (failed 1 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:14 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14230/mista-senior-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:14 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14230/mista-senior-simples/Chave>
+{'result': {'category': '14230', 'ranking': {'/Jogadores/509e1818-9848-4d50-8f5f-d36e7daab6c1/thiago-monteiro': 1, '/Jogadores/45cdb4fb-835b-43db-bd01-5ef2c80038be/allan-ganz': 2, '/Jogadores/f25d97aa-a0ea-45df-92d2-4770584273b6/gladson-barroso': 6, '/Jogadores/5700d45c-474a-4552-a2a3-3a5e284b25f1/elias-nunes': 7, '/Jogadores/aee8a7a2-98f2-4560-99dd-56bbfc16b45b/leandro-brant-neves': 0, '/Jogadores/8175723c-04b7-476b-be14-86ec4df78f16/nathalia-dias': 2, '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos': 4, '/Jogadores/5b9ed981-9212-4bee-aa53-daacd68f2895/jonathan-lameira': 5}}}
+2023-08-28 14:35:31 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14231/mista-master-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:31 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14231/mista-master-simples/Chave>
+{'result': {'category': '14231', 'ranking': {'/Jogadores/3bca827e-7d8b-47ca-a090-0f1037f65b86/naor-uematu': 2, '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone': 0, '/Jogadores/0588facd-b493-4de6-a170-2229e49828c6/adrian-ganz': 4, '/Jogadores/a549322b-d974-4e9e-9a34-bef1602a5b4a/jose-renato-cunha-rodrigues-de-oliveira': 4, '/Jogadores/f6bd7760-a0a3-4ea5-951b-a7629ffb1736/marcelo-luiz-vivas-dias': 9, '/Jogadores/befcf247-7ce4-4e15-b6ab-4ce1acfb5db8/ricardo-silveira-rocha': 2, '/Jogadores/fbe556c2-ab4e-426e-a07c-c129696cde3f/leonardo-nascimento-silva': 1, '/Jogadores/b9b127a3-55cf-44db-bedf-8adcda86299d/jose-roberto-de-souza-francisco': 4, '/Jogadores/d71fd4f1-8497-4c35-9ac5-5200466187c5/luiz-correia-bernardes-filho': 4, '/Jogadores/11af4e95-fabe-4e76-bd8a-6b0ec332bb89/maneco-araujo': 8}}}
+2023-08-28 14:35:34 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14223/mista-rating-b-simples/Chave> (failed 2 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:34 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14225/mista-rating-d-simples/Chave> (failed 2 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:34 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14224/mista-rating-c-simples/Chave> (failed 2 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:34 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14251/mista-mirim-simples/Chave> (failed 2 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:34 [scrapy] DEBUG: Retrying <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14222/mista-rating-a-simples/Chave> (failed 2 times): DNS lookup failed: no results for hostname lookup: app.leegues.com.
+2023-08-28 14:35:34 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14223/mista-rating-b-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:35 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14223/mista-rating-b-simples/Chave>
+{'result': {'category': '14223', 'ranking': {'/Jogadores/9a05bab8-1b39-4b25-bc98-a711d7ccf7c3/matheus-godoy': 2, '/Jogadores/5103de07-5048-4bcd-a485-f028d4599818/mauricio-carvalho': 2, '/Jogadores/f6bd7760-a0a3-4ea5-951b-a7629ffb1736/marcelo-luiz-vivas-dias': 5, '/Jogadores/4fece623-4b6c-4d2c-b8ef-e8417fd7cccc/bernardinho-kk': 6, '/Jogadores/86c7eb7c-2c6e-4ae4-96d5-f692f9707bf0/roberto-sales': 0, '/Jogadores/8a0e73ef-dd1e-422a-9bda-628479c6509d/leonardo-vasconcelos': 1, '/Jogadores/def5491c-af0d-49d5-a046-9945ea8fc3aa/gerridina-slijkhuis': 4, '/Jogadores/538c273a-5e7e-4fc7-b2d9-4a49f30bbf2b/gustavo-cabral': 7}}}
+2023-08-28 14:35:35 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14222/mista-rating-a-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:35 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14222/mista-rating-a-simples/Chave>
+{'result': {'category': '14222', 'ranking': {'/Jogadores/3bca827e-7d8b-47ca-a090-0f1037f65b86/naor-uematu': 0, '/Jogadores/691e517d-3ef1-49f9-b101-58230e4bb52c/rafael-moreira': 1, '/Jogadores/b0e8f59f-9f97-48e3-9b46-1d0038e41858/carlos-eduardo-pujoni-pena': 5, '/Jogadores/befcf247-7ce4-4e15-b6ab-4ce1acfb5db8/ricardo-silveira-rocha': 7, '/Jogadores/509e1818-9848-4d50-8f5f-d36e7daab6c1/thiago-monteiro': 2, '/Jogadores/2a29cd69-29a2-41db-bd57-54ee718e0ae4/felipe-sucasas': 2, '/Jogadores/db6f9ec1-bb58-4be4-a69e-e7bfa4015c79/alvaro-moreira': 6, '/Jogadores/4690e464-a5db-4aa1-b267-fc716f552859/cesar-moreira': 4}}}
+2023-08-28 14:35:36 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14251/mista-mirim-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:36 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14251/mista-mirim-simples/Chave>
+{'result': {'category': '14251', 'ranking': {'/Jogadores/2efa39e8-c45b-4b78-a3c6-8eed5deb99e0/dan-schickler': 0, '/Jogadores/9815ab84-3453-4f9e-a559-863534bc91b6/pedro-monteiro': 1, '/Jogadores/0e5fe48b-2cb1-4346-9d34-99fedd7e9d0f/pedro-eduardo-bellezza-martins-da-silva': 2, '/Jogadores/395ab18d-a183-4c07-a97f-3596c5cb84d6/caio-carvalho': 3, '/Jogadores/94025902-7cde-437f-a5bd-03dfed8d49a4/davi-de-souza-araujo': 3}}}
+2023-08-28 14:35:36 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14224/mista-rating-c-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:36 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14224/mista-rating-c-simples/Chave>
+{'result': {'category': '14224', 'ranking': {'/Jogadores/f14050f9-dd90-4a85-9b85-635f39530814/andre-bittencourt': 2, '/Jogadores/b9b127a3-55cf-44db-bedf-8adcda86299d/jose-roberto-de-souza-francisco': 2, '/Jogadores/8f80a9ff-c846-46cc-b906-b53dbb79478c/arthur-tavares-reis': 5, '/Jogadores/a039f54d-4461-4c72-a0a5-4206c3a717f3/douglas-mello': 6, '/Jogadores/8825518b-c54e-4590-8014-ca7db85580bb/sergio-nakasone': 0, '/Jogadores/fbe556c2-ab4e-426e-a07c-c129696cde3f/leonardo-nascimento-silva': 1, '/Jogadores/f5097e11-9ec0-4bd1-be90-3116fa77d8f6/brendow-souza': 4, '/Jogadores/d71fd4f1-8497-4c35-9ac5-5200466187c5/luiz-correia-bernardes-filho': 7}}}
+2023-08-28 14:35:37 [scrapy] DEBUG: Crawled (200) <GET https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14225/mista-rating-d-simples/Chave> (referer: https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Inscritos)
+2023-08-28 14:35:37 [scrapy] DEBUG: Scraped from <200 https://app.leegues.com/Torneios/4392/liga-getsemani-etapa-de-junho-de-2023/Categorias/14225/mista-rating-d-simples/Chave>
+{'result': {'category': '14225', 'ranking': {'/Jogadores/aee8a7a2-98f2-4560-99dd-56bbfc16b45b/leandro-brant-neves': 0, '/Jogadores/c7a7a5c0-a8d7-4da8-8718-4805159bbec5/denis-barbosa-dos-anjos': 4, '/Jogadores/2244ad52-7e12-47d0-a82f-04b16f8245c9/bruno-monteiro': 7, '/Jogadores/89dc7645-6b60-467c-b6b4-8f895442316b/guilherme-caldeira': 11, '/Jogadores/64d68ac0-a8bb-460d-85eb-53c99b007eba/pablo-souza': 12, '/Jogadores/586d7041-9fce-4476-afef-8f18d73ee43d/hugo-teixeira': 1, '/Jogadores/b302edb2-a976-4e3a-ac31-1d07a8143d2a/renato-de-oliveira-soares': 4, '/Jogadores/3f8804e2-3230-4bcb-97b4-412627f3f4ba/lucas-gustavo-muniz-coutinho': 8, '/Jogadores/441b0e1a-1adb-4a7d-9493-51aeb015c55b/rodrigo-teixeira': 10, '/Jogadores/8175723c-04b7-476b-be14-86ec4df78f16/nathalia-dias': 12, '/Jogadores/5b9ed981-9212-4bee-aa53-daacd68f2895/jonathan-lameira': 2, '/Jogadores/5c98adba-2a4f-4891-a2d3-8f9c87e0c188/luiz-carlos-martins-cardoso': 2, '/Jogadores/9a494421-2a10-4a05-bb11-8e1da99edebf/paulo-henrique': 6, '/Jogadores/5700d45c-474a-4552-a2a3-3a5e284b25f1/elias-nunes': 9, '/Jogadores/e2ea6424-9c42-4880-be70-4754ddeb9ee0/luiza-cesar': 14}}}
+2023-08-28 14:35:37 [scrapy] INFO: Closing spider (finished)
+2023-08-28 14:35:37 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 13,
+ 'downloader/exception_type_count/twisted.internet.error.DNSLookupError': 13,
+ 'downloader/request_bytes': 17392,
+ 'downloader/request_count': 28,
+ 'downloader/request_method_count/GET': 28,
+ 'downloader/response_bytes': 229311,
+ 'downloader/response_count': 15,
+ 'downloader/response_status_count/200': 15,
+ 'elapsed_time_seconds': 59.072395,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 8, 28, 17, 35, 37, 768846),
+ 'httpcompression/response_bytes': 1498798,
+ 'httpcompression/response_count': 15,
+ 'item_scraped_count': 157,
+ 'log_count/DEBUG': 192,
+ 'log_count/INFO': 7,
+ 'memusage/max': 71806976,
+ 'memusage/startup': 71806976,
+ 'request_depth_max': 1,
+ 'response_received_count': 15,
+ 'retry/count': 13,
+ 'retry/reason_count/twisted.internet.error.DNSLookupError': 13,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 26,
+ 'scheduler/dequeued/memory': 26,
+ 'scheduler/enqueued': 26,
+ 'scheduler/enqueued/memory': 26,
+ 'start_time': datetime.datetime(2023, 8, 28, 17, 34, 38, 696451)}
+2023-08-28 14:35:37 [scrapy] INFO: Spider closed (finished)
